@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akshada Pawar, an MCA studen, a passionate developer with a focus on frontend development along with the knowledge of backend.
+- 👀 I’m interested in web desining along with an enthusiasm for learning new technologies.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on open-source web development projects and frontend UI/UX design challenges.
+- ⚡ Fun fact:  I love being creative to make things look more attractive.
